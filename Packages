@@ -1,0 +1,21 @@
+Package: com.bvn.ghostboard
+Version: 6.1
+Architecture: iphoneos-arm64e
+Maintainer: BVN
+Installed-Size: 9892
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.mrgcgamer.libgcuniversal
+Conflicts: com.den.locktouchx, com.bvn.lockscreenbatterymagsafe.r2, com.bvn.lockscreenbatterymagsafe, com.bvn.locktouchx.h2, com.bvn.locktouchx, com.jtisvn.unlockboard, com.bvn.infobattery, com.bvn.infobattery-r2
+Filename: debs/com.bvn.ghostboard_6.1_iphoneos-arm64e.deb
+Size: 3838576
+MD5sum: 5557d4c8f256cf8f233ef301862e2c9f
+SHA1: 6fcaa615426a705e0dcdae3950c1b08ce8fbee12
+SHA256: da748236ee0279e2c961bb2732de7f3d1c249241379f0b16f5ad3308788b6791
+Section: Tweaks
+Description: Ẩn nền Dock,ẩn dấu chấm trang,ẩn viên thuốc tìm kiếm,ẩn tên ứng dụng
+Author: BVN
+Depiction: https://bvnrepo999.github.io/infodeb/Html/GhostBoard.html
+Icon: https://bvnrepo.xyz/icon/tinhchinh.png
+Name: GhostBoard (Roothide)
+Sileodepiction: https://bvnrepo999.github.io/sileodepictions/GhostBoard.json
+

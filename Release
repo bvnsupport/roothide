@@ -1,0 +1,23 @@
+Origin: BVN Roothide
+Label: BVN Roothide
+Suite: stable
+Version: 1.0
+Codename: roothide
+Architectures: iphoneos-arm64e iphoneos-arm64
+Components: main
+Description: BVN Roothide repository for iOS tweaks
+MD5Sum:
+ 188a1837d2ed1ccec95b990c43c3a5b1             1039 Packages
+ d682b4126e9a7cb22ab06bf8439271cb              714 Packages.bz2
+ 90209dc0d6a1e9ec2ae1a3ef57ca7dc0              648 Packages.gz
+ 43b4e4178a8cfc15998904e155f505bc              708 Packages.xz
+SHA1:
+ 07de63255cc8a0faa8423a8fbe0270b0c17e95b9             1039 Packages
+ 708db20a4d4fddb0ee039b236666a58a70bf57b4              714 Packages.bz2
+ 9f11e00ae57089096afdfbcf4b929f360612a855              648 Packages.gz
+ 42a66ee7541125b7408295bcef5cb9a530aa2b1f              708 Packages.xz
+SHA256:
+ 92c34726372bc5f80603f59601d82e6d8ff90314c3877e4cbb0189d187295f09             1039 Packages
+ 6a470948a122ef6351335c86b4422632997cdb16146952dc412e73ed863e2fff              714 Packages.bz2
+ ed864398a03f27fcd8d10a818d2aa8b39f5379727864d7c2c83c23b56e491491              648 Packages.gz
+ 506af970f94c83ae1f44a9bcf0713ddeb43df47c58ef0ada5995ebb3ad58ba02              708 Packages.xz
